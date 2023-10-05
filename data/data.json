@@ -1,0 +1,235 @@
+{
+  "products": {
+    "graphics-cards" : [
+      {
+        "product-name": "XFX Radeon RX 6700 Speedster SWFT 309 Core RX-67XLKWFDV 10GB",
+        "product-description" : "XFX Radeon RX 6700 Speedster SWFT 309 Core RX-67XLKWFDV 10GB GDDR6 160-bit PCI-E 4.0 Desktop Graphics Card",
+        "price" : 6499.00,
+        "score" : 5.0,
+        "id" : 41575
+      },
+      {
+        "product-name": "Palit GeForce RTX 3060",
+        "product-description" : "Palit GeForce RTX 3060 Dual NE63060019K9-190AD 12GB GDDR6 192-bit PCI-E 4.0 Desktop Graphics Card",
+        "price" : 6449.00,
+        "score" : 4.9,
+        "id" : 34113
+      },
+      {
+        "product-name": "Gainward GeForce GTX 1660 Super Ghost",
+        "product-description" : "Gainward GeForce GTX 1660 Super Ghost GW-GTX1660S-6GB-GH 6GB GDDR6 192-bit PCI-E 3.0 Desktop Graphics Card",
+        "price" : 4399.00,
+        "score" : 5.0,
+        "id" : 38292
+      },
+      {
+        "product-name": "MSI GeForce RTX 4090 SUPRIM LIQUID X",
+        "product-description" : "MSI GeForce RTX 4090 SUPRIM LIQUID X 24G 24GB GDDR6X 384-Bit PCIe 4.0 240mm All-In-One Liquid Cooled Desktop Graphics Card",
+        "price" : 47192.00,
+        "score" : 5.0,
+        "id" : 40857
+      },
+      {
+        "product-name": "Zotac GeForce RTX 4060 Ti",
+        "product-description" : "Zotac GeForce RTX 4060 Ti Twin Edge ZT-D40610E-10M 8GB GDDR6 128-Bit PCIe 4.0 Desktop Graphics Card",
+        "price" : 8599.00,
+        "score" : -1,
+        "id" : 43344
+      },
+      {
+        "product-name": "ASUS GeForce RTX 4070 Ti",
+        "product-description" : "ASUS GeForce RTX 4070 Ti ROG Strix OC Edition ROG-STRIX-RTX4070TI-O12G-GAMING 12GB GDDR6X 192-Bit PCIe 4.0 Desktop Graphics Card",
+        "price" : 22999.00,
+        "score" : -1,
+        "id" : 41885
+      }
+    ],
+    "memory": [
+      {
+        "product-name": "G.Skill F4-3000C16D-16GISB Aegis 16GB (2x8GB)",
+        "product-description" : "G.Skill F4-3000C16D-16GISB Aegis 16GB (2x8GB) DDR4-3000MHz CL16 1.35V Black Desktop Memory",
+        "price" : 899.00,
+        "score" : 4.8,
+        "id" : 29078
+      },
+      {
+        "product-name": "G.Skill F4-3200C22S-8GRS Ripjaws 8GB (1x8GB)",
+        "product-description" : "G.Skill F4-3200C22S-8GRS Ripjaws 8GB (1x8GB) DDR4-3200MHz CL22 1.20V SO-DIMM Notebook Memory",
+        "price" : 479.00,
+        "score" : 5.0,
+        "id" :  34863
+      },
+      {
+        "product-name": "Mushkin MSL4U320NF32GX2 Silverline 64GB (2x32GB)",
+        "product-description" : "Mushkin MSL4U320NF32GX2 Silverline 64GB (2x32GB) DDR4-3200MHz CL22 1.2V Silver Desktop Memory",
+        "price" : 2779.00,
+        "score" : -1,
+        "id" : 44127
+      },
+      {
+        "product-name": "Corsair CMH16GX4M2E3200C16W Vengeance RGB Pro SL 16GB (2x8GB)",
+        "product-description" : "Corsair CMH16GX4M2E3200C16W Vengeance RGB Pro SL 16GB (2x8GB) DDR4-3200MHz CL16 1.35V White Desktop Memory",
+        "price" : 1249.00,
+        "score" : 4.0,
+        "id" : 34427
+      },
+      {
+        "product-name": "Transcend JM3200HSB-8G JetRam 8GB(1x8GB)",
+        "product-description" : "Transcend JM3200HSB-8G JetRam 8GB(1x8GB) DDR4-3200MHz CL22 1.2V SO-DIMM Notebook Memory",
+        "price" : 379.00,
+        "score" : -1,
+        "id" : 37307
+      },
+      {
+        "product-name": "GeIL GOSG416GB3600C18BSC ORION RGB 16GB (1x16GB)",
+        "product-description" : "GeIL GOSG416GB3600C18BSC ORION RGB 16GB (1x16GB) DDR4-3600MT/s CL18 1.35V Titanium Grey Desktop Memory",
+        "price" : 899.00,
+        "score" : -1,
+        "id" : 44711
+      },
+      {
+        "product-name": "Crucial CT32G48C40S5 32GB(1x32GB)",
+        "product-description" : "Crucial CT32G48C40S5 32GB(1x32GB) DDR5-4800MHz CL40 1.1V Black SO-DIMM Notebook Memory",
+        "price" : 2368.00,
+        "score" : 4.7,
+        "id" : 38662
+      }
+    ],
+    "processors" : [
+      {
+        "product-name": "AMD 100-100000065BOX Ryzen 5 5600X",
+        "product-description" : "AMD 100-100000065BOX Ryzen 5 5600X Hexa Core 3.7GHz (4.6GHz Boost) Socket AM4 Desktop CPU",
+        "price" : 3699.00,
+        "score" : 5.0,
+        "id" : 33414
+      },
+      {
+        "product-name" : "Intel BX8071513500 Core i5-13500",
+        "product-description" : "Intel BX8071513500 Core i5-13500 14-Core 4.80GHz Raptor Lake Socket LGA1700 Desktop CPU",
+        "price": 5799.00,
+        "score" : 5.0,
+        "id" : 41886
+      },
+      {
+        "product-name" : "Intel BX8071513700 Core i7-13700",
+        "product-description" : "Intel BX8071513700 Core i7-13700 16-Core 5.20GHz Raptor Lake Socket LGA1700 Desktop CPU",
+        "price": 9099.00,
+        "score" : 4.6,
+        "id" : 41882
+      }
+      ,
+      {
+        "product-name" : "AMD 100-100000144BOX Ryzen 3 4300G",
+        "product-description" : "AMD 100-100000144BOX Ryzen 3 4300G 4.0GHz 4-Core Socket AM4 Desktop APU",
+        "price": 1981.00,
+        "score" : 5.0,
+        "id" : 42577
+      }
+      ,
+      {
+        "product-name" : "Intel BX8071513900F Core i9-13900F",
+        "product-description" : "Intel BX8071513900F Core i9-13900F 24-Core 5.60GHz Raptor Lake Socket LGA1700 Desktop CPU",
+        "price": 13299.00,
+        "score" : -1,
+        "id" : 41879
+      }
+    ],
+    "motherboards" : [
+      {
+        "product-name" : "ASUS 90MB14G0-M0EAY0 TUF GAMING",
+        "product-description" : "ASUS 90MB14G0-M0EAY0 TUF GAMING B550-PLUS AMD B550 Ryzen Socket AM4 ATX Desktop Motherboard",
+        "price": 2399.00,
+        "score" : 5.0,
+        "id" : 32321
+      },
+      {
+        "product-name" : "Gigabyte GA-B760-GAMING-X B760",
+        "product-description" : "Gigabyte GA-B760-GAMING-X B760 Gaming X Intel B760 Raptor Lake LGA 1700 DDR5 ATX Desktop Motherboard",
+        "price": 3697.00,
+        "score" : 4.7,
+        "id" : 41932
+      },
+      {
+        "product-name" : "MSI B550M PRO-VDH WIFI AMD B55",
+        "product-description" : "MSI B550M PRO-VDH WIFI AMD B550 Ryzen Socket AM4 Micro ATX Desktop Motherboard",
+        "price": 3499.00,
+        "score" : 4.0,
+        "id" : 33567
+      },
+      {
+        "product-name" : "ASRock Z790 PG Lightning/D4 Intel Z790",
+        "product-description" : "ASRock Z790 PG Lightning/D4 Intel Z790 Raptor Lake LGA 1700 ATX DDR4 Desktop Motherboard",
+        "price": 4199.00,
+        "score" : -1,
+        "id" : 42225
+      }
+    ],
+    "power-supplies" : [
+      {
+        "product-name" : "Super Flower SF-750F14HG(BK) Leadex III Gold 750W 80 Plus Gold",
+        "product-description" : "Super Flower SF-750F14HG(BK) Leadex III Gold 750W 80 Plus Gold Fully Modular Black Desktop Power Supply",
+        "price": 1899.00,
+        "score" : 5.0,
+        "id" : 30460
+      },
+      {
+        "product-name" : "Antec HCG-750 Gold High Current Gamer 750W",
+        "product-description" : "Antec HCG-750 Gold High Current Gamer 750W 80 Plus Gold Certified Fully-Modular Desktop Power Supply",
+        "price": 1949.00,
+        "score" : 4.0,
+        "id" : 27117
+      },
+      {
+        "product-name" : "Cooler Master MPE-6501-ACABW-BWO MWE 650 BRONZE 650W",
+        "product-description" : "Cooler Master MPE-6501-ACABW-BWO MWE 650 BRONZE 650W 80 Plus Bronze Certified Non-Modular Desktop Power Supply",
+        "price": 1299.00,
+        "score" : 4.0,
+        "id" : 34651
+      },
+      {
+        "product-name" : "Super Flower SF-850F14HG(WH) Leadex III Gold 850W",
+        "product-description" : "Super Flower SF-850F14HG(WH) Leadex III Gold 850W 80 Plus Gold Fully Modular White Desktop Power Supply",
+        "price": 2149.00,
+        "score" : -1,
+        "id" : 42013
+      }
+    ],
+    "cases": [
+      {
+        "product-name" : "Montech X3 MESH RGB Tempered Glass Black ATX Mid Tower Desktop Chassis",
+        "product-description" : "Montech X3 MESH RGB Tempered Glass Black ATX Mid Tower Desktop Chassis",
+        "price": 849.00,
+        "score" : 4.8,
+        "id" : 42515
+      },
+      {
+        "product-name" : "Fractal Design FD-C-POR1A-06 Pop Air RGB Clear Tempered Glass Black Steel ATX Mid Tower Desktop Chassis",
+        "product-description" : "Fractal Design FD-C-POR1A-06 Pop Air RGB Clear Tempered Glass Black Steel ATX Mid Tower Desktop Chassis",
+        "price": 1679.00,
+        "score" : -1,
+        "id" : 39195
+      },
+      {
+        "product-name" : "Lian Li G99.OE764CX.00 LANCOOL 205 Mesh Tempered Glass Black Steel ATX Mid Tower Desktop Chassis",
+        "product-description" : "Lian Li G99.OE764CX.00 LANCOOL 205 Mesh Tempered Glass Black Steel ATX Mid Tower Desktop Chassis",
+        "price": 1429.00,
+        "score" : 5.0,
+        "id" : 44399
+      },
+      {
+        "product-name" : "Phanteks PH-ES620PTG_BK02 Enthoo Pro 2 Server Edition Tempered Glass Satin Black E-ATX Full Tower Desktop Chassis",
+        "product-description" : "Phanteks PH-ES620PTG_BK02 Enthoo Pro 2 Server Edition Tempered Glass Satin Black E-ATX Full Tower Desktop Chassis",
+        "price": 3149.00,
+        "score" : -1,
+        "id" : 43825
+      },
+      {
+        "product-name" : "Magnium Gear MG-NE620QI_DWT02 Neo Qube 2 Infinity Mirror White Tempered Glass Steel E-ATX Mid Tower Desktop Chassis",
+        "product-description" : "Magnium Gear MG-NE620QI_DWT02 Neo Qube 2 Infinity Mirror White Tempered Glass Steel E-ATX Mid Tower Desktop Chassis",
+        "price": 2379.00,
+        "score" : 5.0,
+        "id" : 40916
+      }
+    ]
+  }
+}
